@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://usetessera.ch/event/17258409-39ae-4df2-87be-888754e1a70c/settings",
+      "destination": "https://usetessera.ch/event/17258409-39ae-4df2-87be-888754e1a70c/join",
       "permanent": true
     }
   ]
